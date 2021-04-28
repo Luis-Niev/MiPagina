@@ -1,0 +1,52 @@
+
+nav.bg-secondary {
+    background-color:  #e23f3f ;
+}
+h1.masthead-heading {
+    color: black;
+}
+.bg-primary {
+    background-color: #dddbdb;
+}
+
+.divider-custom.divider-light .divider-custom-line {
+    background-color: black;
+  }
+
+.fa-star {
+    color: black;
+}
+
+.masthead-subheading {
+    color: black;
+}
+
+
+section {
+    background-color: #5a92ca ;
+}
+section:nth-child(2n) {
+    background-color: #60be48;
+}
+
+.text-secondary {
+    color: white ;
+  }
+
+  .portfolio-modal-title .text-secondary {
+      color: black;
+  }
+  .portfolio .portfolio-item .portfolio-item-caption {
+    transition: all 0.2s ease-in;
+    background-color: rgba(206, 206, 206, 0.9);
+  }
+
+  .footer {
+      background-color: #e23f3f;
+  }
+
+  .btn-primary {
+      color: black;
+      background-color: #e23f3f;
+      border-color: black;
+  }
